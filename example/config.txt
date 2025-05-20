@@ -1,0 +1,2 @@
+Prefix plugins/VisPatch/example/
+Plugin VisPatch inputfile parameters.txt outputfile patch.html
